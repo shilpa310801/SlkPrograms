@@ -1,0 +1,24 @@
+Camel case:
+MyClass
+Student
+
+
+class name:
+noun 
+not verb
+ex:  Student or  Employee
+
+
+i/f:
+Adjective
+Runnable, Lock
+
+
+Method:
+printTable()
+
+
+variable:
+starts with variable 
+number2 , id , address
+
